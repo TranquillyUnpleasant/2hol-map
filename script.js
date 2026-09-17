@@ -40,13 +40,13 @@ const VIS_LABEL = {
 
 const ICON_STYLES = {
   default: { symbol: "circle", color: "#3b82f6", label: "Default" },
-  star: { symbol: "star", color: "#f59e0b", label: "Star" },
-  tree: { symbol: "triangle-up", color: "#22c55e", label: "Tree / Nature" },
-  tobacco: { symbol: "diamond", color: "#a16207", label: "Tobacco" },
-  christmas: { symbol: "star", color: "#ef4444", label: "Christmas" },
-  event: { symbol: "hexagon", color: "#a855f7", label: "Event" },
+  star: { symbol: "star", color: "#ffea70", label: "Star" },
+  tree: { symbol: "arrow", color: "#89ecad", label: "Tree / Nature" },
+  tobacco: { symbol: "diamond", color: "#71480e", label: "Tobacco" },
+  christmas: { symbol: "star", color: "#912121", label: "Christmas" },
+  event: { symbol: "hexagon", color: "#b28eff", label: "Event" },
   outpost: { symbol: "square", color: "#64748b", label: "Road / Outpost" },
-  special: { symbol: "diamond-wide", color: "#ec4899", label: "Special" }
+  special: { symbol: "diamond-wide", color: "#b80860", label: "Special" }
 };
 
 const firebaseConfig = {
